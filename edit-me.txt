@@ -1,1 +1,1 @@
-This is a text editor input. 
+This is a text editor input.
